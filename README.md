@@ -1,0 +1,1 @@
+Simple repo for messing around with Kivy apps to better understand kv syntax
